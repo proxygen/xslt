@@ -1,0 +1,17 @@
+<page url="https://precisionlms.ptc.com/content/coach_cp_e339983f-ec42-4643-a6b1-288ccdc1ad22//WBT-3147/module_01/DataManagementObjects/concept_01/book01.html" />
+<page url="https://precisionlms.ptc.com/content/coach_cp_e339983f-ec42-4643-a6b1-288ccdc1ad22//WBT-3147/module_01/ChangeManagementObjects/concept_01/book01.html" />
+<page url="https://precisionlms.ptc.com/content/coach_cp_e339983f-ec42-4643-a6b1-288ccdc1ad22//WBT-3147/module_01/StorageLocations/concept_01/book01.html" />
+<page url="https://precisionlms.ptc.com/content/coach_cp_e339983f-ec42-4643-a6b1-288ccdc1ad22//WBT-3147/module_01/IterationandRevisionControls/concept_01/book01.html" />
+<page url="https://precisionlms.ptc.com/content/coach_cp_e339983f-ec42-4643-a6b1-288ccdc1ad22//WBT-3147/module_01/ProcessControls/concept_01/book01.html" />
+<page url="https://precisionlms.ptc.com/content/coach_cp_e339983f-ec42-4643-a6b1-288ccdc1ad22//WBT-3147/module_01/AccessControls/concept_01/book01.html" />
+<page url="https://precisionlms.ptc.com/content/coach_cp_e339983f-ec42-4643-a6b1-288ccdc1ad22//WBT-3147/module_01/CollaborationFeatures/concept_01/book01.html" />
+<page url="https://precisionlms.ptc.com/content/coach_cp_e339983f-ec42-4643-a6b1-288ccdc1ad22//WBT-3147/module_01/LoggingOntoWindchill/concept_01/book01.html" />
+<page url="https://precisionlms.ptc.com/content/coach_cp_e339983f-ec42-4643-a6b1-288ccdc1ad22//WBT-3147/module_01/LoggingOn/exercise_01/book01.html" />
+<page url="https://precisionlms.ptc.com/content/coach_cp_e339983f-ec42-4643-a6b1-288ccdc1ad22//WBT-3147/module_01/UnderstandingtheWindchillUserInterface/concept_01/book01.html" />
+<page url="https://precisionlms.ptc.com/content/coach_cp_e339983f-ec42-4643-a6b1-288ccdc1ad22//WBT-3147/module_01/UsingtheHomePage/concept_01/book01.html" />
+<page url="https://precisionlms.ptc.com/content/coach_cp_e339983f-ec42-4643-a6b1-288ccdc1ad22//WBT-3147/module_01/UsingtheHomePage/exercise_01/book01.html" />
+<page url="https://precisionlms.ptc.com/content/coach_cp_e339983f-ec42-4643-a6b1-288ccdc1ad22//WBT-3147/module_01/UsingQuickLinks/concept_01/book01.html" />
+<page url="https://precisionlms.ptc.com/content/coach_cp_e339983f-ec42-4643-a6b1-288ccdc1ad22//WBT-3147/module_01/UsingtheNavigator/concept_01/book01.html" />
+<page url="https://precisionlms.ptc.com/content/coach_cp_e339983f-ec42-4643-a6b1-288ccdc1ad22//WBT-3147/module_01/NavigatingProductsandLibraries/concept_01/book01.html" />
+<page url="https://precisionlms.ptc.com/content/coach_cp_e339983f-ec42-4643-a6b1-288ccdc1ad22//WBT-3147/module_01/NavigatingChanges/concept_01/book01.html" />
+<page url="https://precisionlms.ptc.com/content/coach_cp_e339983f-ec42-4643-a6b1-288ccdc1ad22//WBT-3147/module_01/NavigatingtheEnvironment/exercise_01/book01.html" />

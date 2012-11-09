@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?><designerNavInner>
+    <topic>
+        <title>Introduction</title>
+    </topic>
+    <topic><title>Course Overview</title><page url="module_00/book01.html"/></topic>
+    <module>
+        <title>Introduction to the Windchill Environment</title>
+        <topic modulecount="1"><page url="module_intro/module_01_intro/book01.html"/></topic>
+        <module modulecount="1"><page url="module_01/WindchillPDMLink/concept_01/book01.html"/></module>
+        <module modulecount="1"><page url="module_01/WindchillEnvironment/concept_01/book01.html"/></module>
+        <module modulecount="1"><page url="module_01/DataManagementObjects/concept_01/book01.html"/></module>
+        <module modulecount="1"><page url="module_01/ChangeManagementObjects/concept_01/book01.html"/></module>
+        <module modulecount="1"><page url="module_01/StorageLocations/concept_01/book01.html"/></module>
+        <module modulecount="1"><page url="module_01/IterationandRevisionControls/concept_01/book01.html"/></module>
+        <module modulecount="1"><page url="module_01/ProcessControls/concept_01/book01.html"/></module>
+        <module modulecount="1"><page url="module_01/AccessControls/concept_01/book01.html"/></module>
+        <module modulecount="1"><page url="module_01/CollaborationFeatures/concept_01/book01.html"/></module>
+        <module modulecount="1"><page url="module_01/LoggingOntoWindchill/concept_01/book01.html"/></module>
+        <module modulecount="1"><page url="module_01/LoggingOn/exercise_01/book01.html"/></module>
+        <module modulecount="1"><page url="module_01/UnderstandingtheWindchillUserInterface/concept_01/book01.html"/></module>
+        <module modulecount="1"><page url="module_01/UsingtheHomePage/concept_01/book01.html"/></module>
+        <module modulecount="1"><page url="module_01/UsingtheHomePage/exercise_01/book01.html"/></module>
+        <module modulecount="1"><page url="module_01/UsingQuickLinks/concept_01/book01.html"/></module>
+        <module modulecount="1"><page url="module_01/UsingtheNavigator/concept_01/book01.html"/></module>
+        <module modulecount="1"><page url="module_01/NavigatingProductsandLibraries/concept_01/book01.html"/></module>
+        <module modulecount="1"><page url="module_01/NavigatingChanges/concept_01/book01.html"/></module>
+        <module modulecount="1"><page url="module_01/NavigatingtheEnvironment/exercise_01/book01.html"/></module>
+        <module modulecount="1"><page url="module_01/prof/index.html"/></module>
+    </module>
+    <module>
+        <title>Locating and Viewing Information</title>
+        <topic modulecount="2"><page url="module_intro/module_02_intro/book01.html"/></topic>
+        <module modulecount="2"><page url="module_02/LocatingInformation/concept_01/book01.html"/></module>
+        <module modulecount="2"><page url="module_02/UsingSimpleSearch/concept_01/book01.html"/></module>
+        <module modulecount="2"><page url="module_02/UsingAdvancedSearch/concept_01/book01.html"/></module>
+        <module modulecount="2"><page url="module_02/SearchingforObjects/exercise_01/book01.html"/></module>
+        <module modulecount="2"><page url="module_02/ManagingSearches/concept_01/book01.html"/></module>
+        <module modulecount="2"><page url="module_02/Browsing/concept_01/book01.html"/></module>
+        <module modulecount="2"><page url="module_02/BrowsingforObjects/exercise_01/book01.html"/></module>
+        <module modulecount="2"><page url="module_02/UsingWindchillTables/concept_01/book01.html"/></module>
+        <module modulecount="2"><page url="module_02/WorkingwithTableColumns/concept_01/book01.html"/></module>
+        <module modulecount="2"><page url="module_02/ManagingWindchillTableViews/concept_01/book01.html"/></module>
+        <module modulecount="2"><page url="module_02/UnderstandingInformationPages/concept_01/book01.html"/></module>
+        <module modulecount="2"><page url="module_02/ViewingStructure/concept_01/book01.html"/></module>
+        <module modulecount="2"><page url="module_02/UnderstandingObjectCapabilities/concept_01/book01.html"/></module>
+        <module modulecount="2"><page url="module_02/DocumentCapabilities/concept_01/book01.html"/></module>
+        <module modulecount="2"><page url="module_02/ExaminingDocuments/exercise_01/book01.html"/></module>
+        <module modulecount="2"><page url="module_02/CADDocumentCapabilities/concept_01/book01.html"/></module>
+        <module modulecount="2"><page url="module_02/ExaminingCADDocuments/exercise_01/book01.html"/></module>
+        <module modulecount="2"><page url="module_02/PartandEndItemCapabilities/concept_01/book01.html"/></module>
+        <module modulecount="2"><page url="module_02/ExaminingPartsandEndItems/exercise_01/book01.html"/></module>
+        <module modulecount="2"><page url="module_02/prof/index.html"/></module>
+    </module>
+    <module>
+        <title>Viewing Information using Creo Elements/View Lite</title>
+        <topic modulecount="3"><page url="module_intro/module_03_intro/book01.html"/></topic>
+        <module modulecount="3"><page url="module_03/IdentifyingVisualizationConcepts/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/IdentifyingVisualizedIntellectualPropertyTypes/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/IdentifyingComponentsinPTCsVisualizationSystem/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/IdentifyingReadableVisualizationObjectTypes/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/UnderstandingCreoElementsViewsBasicCapabilities/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/UnderstandingtheCreoElementsViewUserInterface/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/ViewingAreaUserInterface/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/CommandRibbon/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/TheCreoElementsViewFileMenuUserInterface/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/QuickAccessToolbarUserInterface/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/PrimaryPanelUserInterface/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/VerticalPanelUserInterface/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/HorizontalPanelUserInterface/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/StartingCreoElementsViewasaStandaloneClient/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/StartingCreoElementsViewfromWindchill/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/LoadingViewables/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/LoadingaModelusingaStandaloneClient/exercise_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/LoadingaModelfromWindchill/exercise_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/VisualizingandInterrogatingaCreoElementsViewModel/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/ViewsCommandGroup/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/OrientingtheModel/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/Navigating3DModels/exercise_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/ChangingtheDisplayoftheModel/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/RenderingOptions/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/FilteringDisplayandOtherItems/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/HidingandUnhidingComponents/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/WorkingwithModelDisplayOptions/exercise_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/OpeningNonModelFileswithCreoElementsView/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/ViewingDrawings/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/ViewingImages/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/OrientingDrawingsandImages/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/WorkingwithPagesandSheets/concept_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/ViewingDrawingsandImages/exercise_01/book01.html"/></module>
+        <module modulecount="3"><page url="module_03/prof/index.html"/></module>
+    </module>
+    <module>
+        <title>Getting Started with CAD Data Management</title>
+        <topic modulecount="4"><page url="module_intro/module_04_intro/book01.html"/></topic>
+        <module modulecount="4"><page url="module_04/CreoElementsProandWindchillConnectivity/concept_01/book01.html"/></module>
+        <module modulecount="4"><page url="module_04/WindchillIntegration/concept_01/book01.html"/></module>
+        <module modulecount="4"><page url="module_04/WindchillIntegrationCreoElementsProMenus/concept_01/book01.html"/></module>
+        <module modulecount="4"><page url="module_04/WindchillIntegrationModelTree/concept_01/book01.html"/></module>
+        <module modulecount="4"><page url="module_04/WindchillIntegrationFolderBrowser/concept_01/book01.html"/></module>
+        <module modulecount="4"><page url="module_04/WindchillIntegrationSearch/concept_01/book01.html"/></module>
+        <module modulecount="4"><page url="module_04/WindchillIntegrationEmbeddedBrowser/concept_01/book01.html"/></module>
+        <module modulecount="4"><page url="module_04/WindchillIntegrationEventManager/concept_01/book01.html"/></module>
+        <module modulecount="4"><page url="module_04/RegisteringaWindchillServer/concept_01/book01.html"/></module>
+        <module modulecount="4"><page url="module_04/IntroductiontotheWorkspace/concept_01/book01.html"/></module>
+        <module modulecount="4"><page url="module_04/WorkspaceLayout/concept_01/book01.html"/></module>
+        <module modulecount="4"><page url="module_04/CreatingWorkspaces/concept_01/book01.html"/></module>
+        <module modulecount="4"><page url="module_04/RegisteringaWindchillServerandCreatingWorkspaces/exercise_01/book01.html"/></module>
+        <module modulecount="4"><page url="module_04/ChangingtheActiveWorkspace/concept_01/book01.html"/></module>
+        <module modulecount="4"><page url="module_04/WorkingwithWorkspaces/concept_01/book01.html"/></module>
+        <module modulecount="4"><page url="module_04/WorkspacePreferencesGeneral/concept_01/book01.html"/></module>
+        <module modulecount="4"><page url="module_04/IntroductiontoWindchillParts/concept_01/book01.html"/></module>
+        <module modulecount="4"><page url="module_04/DuplicateNames/concept_01/book01.html"/></module>
+        <module modulecount="4"><page url="module_04/prof/index.html"/></module>
+    </module>
+    <module>
+        <title>Initiating New Designs and Sharing Design Data</title>
+        <topic modulecount="5"><page url="module_intro/module_05_intro/book01.html"/></topic>
+        <module modulecount="5"><page url="module_05/UnderstandingWorkspaceArchitecture/concept_01/book01.html"/></module>
+        <module modulecount="5"><page url="module_05/SharingCreoElementsProDesigns/concept_01/book01.html"/></module>
+        <module modulecount="5"><page url="module_05/IntroducingNewDesignstotheWorkspace/concept_01/book01.html"/></module>
+        <module modulecount="5"><page url="module_05/WorkspaceSaveAs/concept_01/book01.html"/></module>
+        <module modulecount="5"><page url="module_05/InitiatingNewDesignsUsingSaveAsintheWorkspace/exercise_01/book01.html"/></module>
+        <module modulecount="5"><page url="module_05/IntroducingNewDesignstotheCommonspace/concept_01/book01.html"/></module>
+        <module modulecount="5"><page url="module_05/CommonspaceSaveAs/concept_01/book01.html"/></module>
+        <module modulecount="5"><page url="module_05/InitiatingNewDesignsUsingSaveAsintheCommonspace/exercise_01/book01.html"/></module>
+        <module modulecount="5"><page url="module_05/UnderstandingSaveUploadandCheckIn/concept_01/book01.html"/></module>
+        <module modulecount="5"><page url="module_05/UnderstandingSaveUploadandCheckIn/exercise_01/book01.html"/></module>
+        <module modulecount="5"><page url="module_05/UnderstandingAdvancedCheckInOptions/concept_01/book01.html"/></module>
+        <module modulecount="5"><page url="module_05/GeneratingViewables/concept_01/book01.html"/></module>
+        <module modulecount="5"><page url="module_05/UnderstandingWebBrowserAccesstotheWorkspace/concept_01/book01.html"/></module>
+        <module modulecount="5"><page url="module_05/NamingandNumberingPolicyExample/concept_01/book01.html"/></module>
+        <module modulecount="5"><page url="module_05/ParametertoAttributeMapping/concept_01/book01.html"/></module>
+        <module modulecount="5"><page url="module_05/prof/index.html"/></module>
+    </module>
+    <module>
+        <title>Modifying and Managing Design Information</title>
+        <topic modulecount="6"><page url="module_intro/module_06_intro/book01.html"/></topic>
+        <module modulecount="6"><page url="module_06/UnderstandingWorkspaceObjects/concept_01/book01.html"/></module>
+        <module modulecount="6"><page url="module_06/ModificationProcessCheckOutaCADDocument/concept_01/book01.html"/></module>
+        <module modulecount="6"><page url="module_06/ModificationProcessModifyaCADDocument/concept_01/book01.html"/></module>
+        <module modulecount="6"><page url="module_06/ModificationProcessCheckInaCADDocument/concept_01/book01.html"/></module>
+        <module modulecount="6"><page url="module_06/MethodsofCheckingOutCADDocuments/concept_01/book01.html"/></module>
+        <module modulecount="6"><page url="module_06/UnderstandingCheckOutStatusandOptions/concept_01/book01.html"/></module>
+        <module modulecount="6"><page url="module_06/UnderstandingDownloadandCheckOut/concept_01/book01.html"/></module>
+        <module modulecount="6"><page url="module_06/CheckingOutandModifyingCADDocuments/exercise_01/book01.html"/></module>
+        <module modulecount="6"><page url="module_06/WorkspaceStatus/concept_01/book01.html"/></module>
+        <module modulecount="6"><page url="module_06/AssociatingWTPartswithCADDocuments/concept_01/book01.html"/></module>
+        <module modulecount="6"><page url="module_06/WTPartCADDocumentLinks/concept_01/book01.html"/></module>
+        <module modulecount="6"><page url="module_06/WTPartCADDocumentLinksExample/concept_01/book01.html"/></module>
+        <module modulecount="6"><page url="module_06/UpdatingandSynchronizingWorkspaceObjects/concept_01/book01.html"/></module>
+        <module modulecount="6"><page url="module_06/UpdatingCADDocumentsintheWorkspace/concept_01/book01.html"/></module>
+        <module modulecount="6"><page url="module_06/SynchronizingObjectsintheWorkspace/concept_01/book01.html"/></module>
+        <module modulecount="6"><page url="module_06/ConductingConcurrentProductDesign/exercise_01/book01.html"/></module>
+        <module modulecount="6"><page url="module_06/ImportingandExportingCADData/concept_01/book01.html"/></module>
+        <module modulecount="6"><page url="module_06/ImportingCADData/concept_01/book01.html"/></module>
+        <module modulecount="6"><page url="module_06/ExportingCADData/concept_01/book01.html"/></module>
+        <module modulecount="6"><page url="module_06/ImportingAssembliesintoWorkspaces/exercise_01/book01.html"/></module>
+        <module modulecount="6"><page url="module_06/ViewingFamilyTableInformation/concept_01/book01.html"/></module>
+        <module modulecount="6"><page url="module_06/prof/index.html"/></module>
+    </module>
+    <module>
+        <title>Introduction to Product Structure Management</title>
+        <topic modulecount="7"><page url="module_intro/module_07_intro/book01.html"/></topic>
+        <module modulecount="7"><page url="module_07/DefiningConfigurationManagement/concept_01/book01.html"/></module>
+        <module modulecount="7"><page url="module_07/EndItemsandPartsinProductStructures/concept_01/book01.html"/></module>
+        <module modulecount="7"><page url="module_07/CADDocumentsinProductStructures/concept_01/book01.html"/></module>
+        <module modulecount="7"><page url="module_07/DocumentsinProductStructures/concept_01/book01.html"/></module>
+        <module modulecount="7"><page url="module_07/CreatingProductStructuresusingCADcentricApproach/concept_01/book01.html"/></module>
+        <module modulecount="7"><page url="module_07/CreatingProductStructuresusingPartcentricApproach/concept_01/book01.html"/></module>
+        <module modulecount="7"><page url="module_07/PartMasterandVersion/concept_01/book01.html"/></module>
+        <module modulecount="7"><page url="module_07/EndItemMasterandVersion/concept_01/book01.html"/></module>
+        <module modulecount="7"><page url="module_07/PartInformationPage/concept_01/book01.html"/></module>
+        <module modulecount="7"><page url="module_07/TheProductStructureBrowser/concept_01/book01.html"/></module>
+        <module modulecount="7"><page url="module_07/ThePartStructureCommandRibbon/concept_01/book01.html"/></module>
+        <module modulecount="7"><page url="module_07/ThePartStructurePanes/concept_01/book01.html"/></module>
+        <module modulecount="7"><page url="module_07/ProductStructureBrowserLayoutOptions/concept_01/book01.html"/></module>
+        <module modulecount="7"><page url="module_07/FindingComponentsintheProductStructure/concept_01/book01.html"/></module>
+        <module modulecount="7"><page url="module_07/ProductStructureBrowserVisualizationTab/concept_01/book01.html"/></module>
+        <module modulecount="7"><page url="module_07/ProductStructureBrowserUsesTab/concept_01/book01.html"/></module>
+        <module modulecount="7"><page url="module_07/ProductStructureBrowserOccurrencesTab/concept_01/book01.html"/></module>
+        <module modulecount="7"><page url="module_07/ShowHideRelatedInformation/concept_01/book01.html"/></module>
+        <module modulecount="7"><page url="module_07/ProductStructureRelatedObjects/concept_01/book01.html"/></module>
+        <module modulecount="7"><page url="module_07/ExploringProductStructures/concept_01/book01.html"/></module>
+        <module modulecount="7"><page url="module_07/ExploringProductStructures/exercise_01/book01.html"/></module>
+        <module modulecount="7"><page url="module_07/prof/index.html"/></module>
+    </module>
+    <module>
+        <title>Creating and Managing Product Structures</title>
+        <topic modulecount="8"><page url="module_intro/module_08_intro/book01.html"/></topic>
+        <module modulecount="8"><page url="module_08/CreatingPartsandEndItems/concept_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/CreatingWindchillParts/exercise_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/CreatingMultipleParts/concept_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/BuildingProductStructures/concept_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/BuildingProductStructure/exercise_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/AssociatingWindchillPartswithDocuments/concept_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/AssociatingWindchillPartswithDocuments/exercise_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/BillofMaterialsNotes/concept_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/CreatingBillofMaterialsNotes/concept_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/CreatingBillofMaterialsNotes/exercise_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/ReplacementParts/concept_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/AddingReplacementParts/exercise_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/ObjectEffectivity/concept_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/ProductStructureReports/concept_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/GeneratingProductStructureReports/exercise_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/SettingtheLatestFilter/concept_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/SettingtheAttributeFilter/concept_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/SettingtheAttributeFilter/exercise_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/SavingandManagingFilters/concept_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/ComparingProductStructures/concept_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/AnalyzingStructureComparison/concept_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/ComparingProductStructures/exercise_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/TheProductStructureExplorerPSE/concept_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/ProductStructureExplorerMenus/concept_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/ExploringProductStructureExplorerInterface/exercise_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/AboutProductStructureExplorerModes/concept_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/ProductStructureExplorerDraftMode/concept_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/ProductStructureExplorerEditMode/concept_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/CreatingPartsandEndItemsinProductStructureExplorer/concept_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/CreatingProductStructuresusingtheProductStructureExplorer/exercise_01/book01.html"/></module>
+        <module modulecount="8"><page url="module_08/prof/index.html"/></module>
+    </module>
+    <module>
+        <title>Creating and Managing Documents</title>
+        <topic modulecount="9"><page url="module_intro/module_09_intro/book01.html"/></topic>
+        <module modulecount="9"><page url="module_09/DocumentCapabilities/concept_01/book01.html"/></module>
+        <module modulecount="9"><page url="module_09/CreatingDocumentsandLinks/concept_01/book01.html"/></module>
+        <module modulecount="9"><page url="module_09/NewDocumentSetAttributesTypeandTemplate/concept_01/book01.html"/></module>
+        <module modulecount="9"><page url="module_09/NewDocumentSetAttributesPrimaryContent/concept_01/book01.html"/></module>
+        <module modulecount="9"><page url="module_09/NewDocumentSetAttributesAttributes/concept_01/book01.html"/></module>
+        <module modulecount="9"><page url="module_09/NewDocumentSetAttachments/concept_01/book01.html"/></module>
+        <module modulecount="9"><page url="module_09/CreatingDocuments/exercise_01/book01.html"/></module>
+        <module modulecount="9"><page url="module_09/CreatingDocumentsfromDocumentTemplates/exercise_01/book01.html"/></module>
+        <module modulecount="9"><page url="module_09/OverviewofModifyingDocuments/concept_01/book01.html"/></module>
+        <module modulecount="9"><page url="module_09/ModifyingDocumentsCheckOut/concept_01/book01.html"/></module>
+        <module modulecount="9"><page url="module_09/ModifyingDocumentsEdit/concept_01/book01.html"/></module>
+        <module modulecount="9"><page url="module_09/ModifyingDocumentsCheckIn/concept_01/book01.html"/></module>
+        <module modulecount="9"><page url="module_09/ModifyingDocuments/exercise_01/book01.html"/></module>
+        <module modulecount="9"><page url="module_09/ModifyingDocumentsUndoCheckout/concept_01/book01.html"/></module>
+        <module modulecount="9"><page url="module_09/ModifyingDocumentsReplaceContent/concept_01/book01.html"/></module>
+        <module modulecount="9"><page url="module_09/ModifyingDocumentsRevise/concept_01/book01.html"/></module>
+        <module modulecount="9"><page url="module_09/RevisingDocuments/exercise_01/book01.html"/></module>
+        <module modulecount="9"><page url="module_09/UnderstandingDocumentRelationships/concept_01/book01.html"/></module>
+        <module modulecount="9"><page url="module_09/EstablishingDocumentReferencesRelationships/concept_01/book01.html"/></module>
+        <module modulecount="9"><page url="module_09/CreatingDocumentReferencesRelationships/exercise_01/book01.html"/></module>
+        <module modulecount="9"><page url="module_09/AssociatingDocumentswithWindchillParts/concept_01/book01.html"/></module>
+        <module modulecount="9"><page url="module_09/prof/index.html"/></module>
+    </module>
+    <module>
+        <title>Introduction to the Change Process</title>
+        <topic modulecount="10"><page url="module_intro/module_10_intro/book01.html"/></topic>
+        <module modulecount="10"><page url="module_10/ChangeManagementFeaturesIntroduction/concept_01/book01.html"/></module>
+        <module modulecount="10"><page url="module_10/ChangeManagementFeaturesHowDoesChangeManagementFitIn/concept_01/book01.html"/></module>
+        <module modulecount="10"><page url="module_10/ChangeManagementProcessDefinition/concept_01/book01.html"/></module>
+        <module modulecount="10"><page url="module_10/ChangeObjects/concept_01/book01.html"/></module>
+        <module modulecount="10"><page url="module_10/RolesintheChangeProcess/concept_01/book01.html"/></module>
+        <module modulecount="10"><page url="module_10/ChangeNoticewithoutaChangeRequest/concept_01/book01.html"/></module>
+        <module modulecount="10"><page url="module_10/MonitoringChangeReports/concept_01/book01.html"/></module>
+        <module modulecount="10"><page url="module_10/MonitoringChanges/exercise_01/book01.html"/></module>
+        <module modulecount="10"><page url="module_10/TheChangeProcessOverview/concept_01/book01.html"/></module>
+        <module modulecount="10"><page url="module_10/TheChangeProcessDiagram/concept_01/book01.html"/></module>
+        <module modulecount="10"><page url="module_10/TheChangeProcessProblemReport/concept_01/book01.html"/></module>
+        <module modulecount="10"><page url="module_10/TheChangeProcessChangeRequest/concept_01/book01.html"/></module>
+        <module modulecount="10"><page url="module_10/TheChangeProcessChangeRequestTracking/concept_01/book01.html"/></module>
+        <module modulecount="10"><page url="module_10/TheChangeProcessChangeNotice/concept_01/book01.html"/></module>
+        <module modulecount="10"><page url="module_10/TheChangeProcessChangeNoticeImplementation/concept_01/book01.html"/></module>
+        <module modulecount="10"><page url="module_10/BusinessCasefortheChange/concept_01/book01.html"/></module>
+        <module modulecount="10"><page url="module_10/CreatingProblemReports/concept_01/book01.html"/></module>
+        <module modulecount="10"><page url="module_10/CreatingProblemReportsSetAttributes/concept_01/book01.html"/></module>
+        <module modulecount="10"><page url="module_10/CreatingProblemReportsSelectAffectedEndItems/concept_01/book01.html"/></module>
+        <module modulecount="10"><page url="module_10/CreatingProblemReportsSelectAffectedObjects/concept_01/book01.html"/></module>
+        <module modulecount="10"><page url="module_10/CreatingProblemReportsSetAttachments/concept_01/book01.html"/></module>
+        <module modulecount="10"><page url="module_10/SubmittingProblemReports/exercise_01/book01.html"/></module>
+        <module modulecount="10"><page url="module_10/prof/index.html"/></module>
+    </module>
+    <module>
+        <title>Initiating and Implementing Change</title>
+        <topic modulecount="11"><page url="module_intro/module_11_intro/book01.html"/></topic>
+        <module modulecount="11"><page url="module_11/AnalyzingChangeRequestTheProcess/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/AnalyzingChangeRequestTaskDetails/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/ChangeRequestsObjectivesandBenefits/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/CreatingChangeRequestsTheProcess/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/CreatingChangeRequestsSetAttributes/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/CreatingChangeRequestsSelectAffectedEndItems/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/CreatingChangeRequestsSelectAffectedObjects/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/CreatingChangeRequestsCollectAffectedObjects/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/CreatingChangeRequestsSetAttachments/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/CreatingChangeRequestsAssociateChanges/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/AnalyzingChangeRequestsTheProcess/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/AnalyzingChangeRequestsFastTrackVersusFullTrack/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/AnalyzingChangeRequestsTaskDetails/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/ProblemReportsandChangeRequests/exercise_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/BenefitsofChangeNotices/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/CreatingChangeNoticesTheProcess/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/CreatingChangeNoticesSetAttributes/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/CreatingChangeNoticesDefineImplementationPlan/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/CreatingChangeNoticesSetAttachments/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/CreatingChangeNoticesAssociateChanges/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/EditingChangeTasksSetAttributes/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/EditingChangeTasksSelectAffectedResultingObjects/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/CreatingChangeNotices/exercise_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/ViewingRelatedTasks/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/ChangeTasksDetails/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/ChangeTaskSequencing/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/SettingtheDispositionoftheAffectedObjects/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/SettingEffectivity/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/ChangeNoticePlanApproval/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/ChangeNoticeProcessTheDiagram/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/ChangeNoticePlanExecution/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/MassChange/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/ChangeNoticeAudit/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/WindchillVarianceTheDiagram/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/WindchillVarianceTypes/concept_01/book01.html"/></module>
+        <module modulecount="11"><page url="module_11/prof/index.html"/></module>
+    </module>
+    <module>
+        <title>Managing Your Work</title>
+        <topic modulecount="12"><page url="module_intro/module_12_intro/book01.html"/></topic>
+        <module modulecount="12"><page url="module_12/ManagingYourWork/concept_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/ManagingAssignments/concept_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/ManagingRecentlyModifiedObjects/concept_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/ManagingCheckedOutObjects/concept_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/ManagingSubscriptions/concept_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/IntroductiontoCommunicationMechanisms/concept_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/HoldingDiscussions/concept_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/DiscussingObjects/exercise_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/PromotionRequests/concept_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/ViewingPromotionRequests/concept_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/ParticipatinginProcesses/concept_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/ParticipatinginWorkflowProcesses/exercise_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/CompletingTasks/concept_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/PreferenceManager/concept_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/DeletingObjects/concept_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/TheSaveAsFeature/concept_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/TheRenameFeature/concept_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/TheSetStateFeature/concept_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/UsingtheWindchillClipboard/concept_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/ManagingFolders/concept_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/SoftwareDownloads/concept_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/WindchillPackagesDefinition/concept_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/PackageRoles/concept_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/PackagesTable/concept_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/ViewingaPackage/concept_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/ViewingaPackage/exercise_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/ManagedCollection/concept_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/CreatingManagedCollections/concept_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/CreatingaManagedCollection/exercise_01/book01.html"/></module>
+        <module modulecount="12"><page url="module_12/prof/index.html"/></module>
+    </module>
+    
+</designerNavInner>

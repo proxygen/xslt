@@ -1,0 +1,2475 @@
+<?xml version="1.0" encoding="UTF-8"?><designerNavInner>
+      	
+<li><topic level="2" position="Leaf">
+    
+    
+    <title>Introduction</title>
+</topic></li><li><topic level="2" position="Leaf">
+    
+    
+    <title>Course Overview</title>
+</topic></li><li><module level="2" position="Branch">
+    
+    
+    <title>Introduction to the Windchill Environment</title>
+</module><li><topic level="3" position="Leaf">
+    
+    
+    <title>Introduction</title>
+</topic></li><li><module level="3" position="Branch">
+    
+    
+    <title>Windchill PDMLink</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Windchill Environment</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Data Management Objects</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Change Management Objects</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Storage Locations</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Iteration and Revision Controls</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Process Controls</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Access Controls</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Collaboration Features</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Logging On to Windchill</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Logging On</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Understanding the Windchill User Interface</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Using the Home Page</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Using the Home Page</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Using Quick Links</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Using the Navigator</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Navigating Products and Libraries</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Navigating Changes</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Navigating the Environment</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Check Your Knowledge</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Questions</title>
+</topic></li></li></li><li><module level="2" position="Branch">
+    
+    
+    <title>Locating and Viewing Information</title>
+</module><li><topic level="3" position="Leaf">
+    
+    
+    <title>Introduction</title>
+</topic></li><li><module level="3" position="Branch">
+    
+    
+    <title>Locating Information</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Using Simple Search</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Using Advanced Search</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Searching for Objects</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Managing Searches</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Browsing</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Browsing for Objects</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Using Windchill Tables</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Working with Table Columns</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Managing Windchill Table Views</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Understanding Information Pages</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Viewing Structure</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Understanding Object Capabilities</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Document Capabilities</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Examining Documents</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>CAD Document Capabilities</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Examining CAD Documents</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Part and End Item Capabilities</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Examining Parts and End Items</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Check Your Knowledge</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Questions</title>
+</topic></li></li></li><li><module level="2" position="Branch">
+    
+    
+    <title>Viewing Information using Creo Elements/View Lite</title>
+</module><li><topic level="3" position="Leaf">
+    
+    
+    <title>Introduction</title>
+</topic></li><li><module level="3" position="Branch">
+    
+    
+    <title>Identifying Visualization Concepts</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Identifying Visualized Intellectual Property Types</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Identifying Components in PTC's Visualization System</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Identifying Readable Visualization Object Types</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Understanding Creo Elements/View’s Basic Capabilities</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Understanding the Creo Elements/View User Interface</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Viewing Area User Interface</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Command Ribbon</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>The Creo Elements/View File Menu User Interface</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Quick Access Toolbar User Interface</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Primary Panel User Interface</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Vertical Panel User Interface</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Horizontal Panel User Interface</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Starting Creo Elements/View as a Standalone Client</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Starting Creo Elements/View from Windchill</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Loading Viewables</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Demonstration: Loading a Model using a Standalone Client</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Demonstration</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Demonstration: Loading a Model from Windchill</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Demonstration</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Visualizing and Interrogating a Creo Elements/View Model</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Views Command Group</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Orienting the Model</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Demonstration: Navigating 3-D Models</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Demonstration</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Changing the Display of the Model</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Rendering Options</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Filtering Display and Other Items</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Hiding and Unhiding Components</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Demonstration: Working with Model Display Options</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Demonstration</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Opening Non-Model Files with Creo Elements/View</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Viewing Drawings</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Viewing Images</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Orienting Drawings and Images</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Working with Pages and Sheets</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Demonstration: Viewing Drawings and Images</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Demonstration</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>_03 check Your Knowledge</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Questions</title>
+</topic></li></li></li><li><module level="2" position="Branch">
+    
+    
+    <title>Getting Started with CAD Data Management</title>
+</module><li><topic level="3" position="Leaf">
+    
+    
+    <title>Introduction</title>
+</topic></li><li><module level="3" position="Branch">
+    
+    
+    <title>Creo Elements/Pro and Windchill Connectivity</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Windchill Integration</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Windchill Integration: Creo Elements/Pro Menus</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Windchill Integration: Model Tree</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Windchill Integration: Folder Browser</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Windchill Integration: Search</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Windchill Integration: Embedded Browser</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Windchill Integration: Event Manager</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Registering a Windchill Server</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Introduction to the Workspace</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Workspace Layout</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Creating Workspaces</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Registering a Windchill Server and Creating Workspaces</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Changing the Active Workspace</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Working with Workspaces</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Workspace Preferences: General</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Introduction to Windchill Parts</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Duplicate Names</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>_04 Check Your Knowledge</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Questions</title>
+</topic></li></li></li><li><module level="2" position="Branch">
+    
+    
+    <title>Initiating New Designs and Sharing Design Data</title>
+</module><li><topic level="3" position="Leaf">
+    
+    
+    <title>Introduction</title>
+</topic></li><li><module level="3" position="Branch">
+    
+    
+    <title>Understanding Workspace Architecture</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Sharing Creo Elements/Pro Designs</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Introducing New Designs to the Workspace</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Workspace Save As</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Initiating New Designs Using Save As in the Workspace</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Introducing New Designs to the Commonspace</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Commonspace Save As</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Initiating New Designs Using Save As in the Commonspace</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Understanding Save, Upload, and Check In</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Understanding Save, Upload, and Check In</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Understanding Advanced Check In Options</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Generating Viewables</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Understanding Web Browser Access to the Workspace</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Naming and Numbering Policy Example</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Parameter to Attribute Mapping</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>_05 Check Your Knowledge</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Questions</title>
+</topic></li></li></li><li><module level="2" position="Branch">
+    
+    
+    <title>Modifying and Managing Design Information</title>
+</module><li><topic level="3" position="Leaf">
+    
+    
+    <title>Introduction</title>
+</topic></li><li><module level="3" position="Branch">
+    
+    
+    <title>Understanding Workspace Objects</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Modification Process: Check Out a CAD Document</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Modification Process: Modify a CAD Document</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Modification Process: Check In a CAD Document</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Methods of Checking Out CAD Documents</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Understanding Check Out Status and Options</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Understanding Download and Check Out</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Checking Out and Modifying CAD Documents</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Workspace Status</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Associating WTParts with CAD Documents</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>WTPart CAD Document Links</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>WTPart CAD Document Links Example</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Updating and Synchronizing Workspace Objects</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Updating CAD Documents in the Workspace</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Synchronizing Objects in the Workspace</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Conducting Concurrent Product Design</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Importing and Exporting CAD Data</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Importing CAD Data</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exporting CAD Data</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Importing Assemblies into Workspaces</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Viewing Family Table Information</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>_06 Check Your Knowledge</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Questions</title>
+</topic></li></li></li><li><module level="2" position="Branch">
+    
+    
+    <title>Introduction to Product Structure Management</title>
+</module><li><topic level="3" position="Leaf">
+    
+    
+    <title>Introduction</title>
+</topic></li><li><module level="3" position="Branch">
+    
+    
+    <title>Defining Configuration Management</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>End Items and Parts in Product Structures</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>CAD Documents in Product Structures</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Documents in Product Structures</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Creating Product Structures using CAD-centric Approach</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Creating Product Structures using Part-centric Approach</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Part Master and Version</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>End Item Master and Version</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Part Information Page</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>The Product Structure Browser</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>The Part Structure Command Ribbon</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>The Part Structure Panes</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Product Structure Browser — Layout Options</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Finding Components in the Product Structure</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Product Structure Browser — Visualization Tab</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Product Structure Browser — Uses Tab</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Product Structure Browser — Occurrences Tab</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Show/Hide Related Information</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Product Structure Related Objects</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exploring Product Structures</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Exploring Product Structures</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>_07 Check Your Knowledge</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Questions</title>
+</topic></li></li></li><li><module level="2" position="Branch">
+    
+    
+    <title>Creating and Managing Product Structures</title>
+</module><li><topic level="3" position="Leaf">
+    
+    
+    <title>Introduction</title>
+</topic></li><li><module level="3" position="Branch">
+    
+    
+    <title>Creating Parts and End Items</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Creating Windchill Parts</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Creating Multiple Parts</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Building Product Structures</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Building Product Structure</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Associating Windchill Parts with Documents</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Associating Windchill Parts with Documents</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Bill of Materials Notes</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Creating Bill of Materials Notes</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Creating Bill of Materials Notes</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Replacement Parts</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Adding Replacement Parts</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Object Effectivity</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Product Structure Reports</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Generating Product Structure Reports</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Setting the Latest Filter</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Setting the Attribute Filter</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Setting the Attribute Filter</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Saving and Managing Filters</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Comparing Product Structures</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Analyzing Structure Comparison</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Comparing Product Structures</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>The Product Structure Explorer (PSE)</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Product Structure Explorer Menus</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Exploring Product Structure Explorer Interface</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>About Product Structure Explorer Modes</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Product Structure Explorer Draft Mode</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Product Structure Explorer Edit Mode</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Creating Parts and End Items in Product Structure Explorer</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Creating Product Structures using the Product Structure Explorer</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>_08 Check Your Knowledge</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Questions</title>
+</topic></li></li></li><li><module level="2" position="Branch">
+    
+    
+    <title>Creating and Managing Documents</title>
+</module><li><topic level="3" position="Leaf">
+    
+    
+    <title>Introduction</title>
+</topic></li><li><module level="3" position="Branch">
+    
+    
+    <title>Document Capabilities</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Creating Documents and Links</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>New Document: Set Attributes (Type and Template)</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>New Document: Set Attributes (Primary Content)</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>New Document: Set Attributes (Attributes)</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>New Document: Set Attachments</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Creating Documents</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Creating Documents from Document Templates</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Overview of Modifying Documents</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Modifying Documents: Check Out</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Modifying Documents: Edit</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Modifying Documents: Check In</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Modifying Documents</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Modifying Documents: Undo Checkout</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Modifying Documents: Replace Content</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Modifying Documents: Revise</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Revising Documents</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Understanding Document Relationships</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Establishing Document References Relationships</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Creating Document References Relationships</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Associating Documents with Windchill Parts</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>_09 Check Your Knowledge</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Questions</title>
+</topic></li></li></li><li><module level="2" position="Branch">
+    
+    
+    <title>Introduction to the Change Process</title>
+</module><li><topic level="3" position="Leaf">
+    
+    
+    <title>Introduction</title>
+</topic></li><li><module level="3" position="Branch">
+    
+    
+    <title>Change Management Features: Introduction</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Change Management Features: How Does Change Management Fit In?</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Change Management Process Definition</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Change Objects</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Roles in the Change Process</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Change Notice without a Change Request</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Monitoring Change: Reports</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Monitoring Changes</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>The Change Process: Overview</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>The Change Process: Diagram</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>The Change Process: Problem Report</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>The Change Process: Change Request</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>The Change Process: Change Request Tracking</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>The Change Process: Change Notice</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>The Change Process: Change Notice Implementation</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Business Case for the Change</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Creating Problem Reports</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Creating Problem Reports: Set Attributes</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Creating Problem Reports: Select Affected End Items</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Creating Problem Reports: Select Affected Objects</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Creating Problem Reports: Set Attachments</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Submitting Problem Reports</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>_10 Check Your Knowledge</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Questions</title>
+</topic></li></li></li><li><module level="2" position="Branch">
+    
+    
+    <title>Initiating and Implementing Change</title>
+</module><li><topic level="3" position="Leaf">
+    
+    
+    <title>Introduction</title>
+</topic></li><li><module level="3" position="Branch">
+    
+    
+    <title>Analyzing Change Request: The Process</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Analyzing Change Request: Task Details</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Change Requests: Objectives and Benefits</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Creating Change Requests: The Process</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Creating Change Requests: Set Attributes</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Creating Change Requests: Select Affected End Items</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Creating Change Requests: Select Affected Objects</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Creating Change Requests: Collect Affected Objects</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Creating Change Requests: Set Attachments</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Creating Change Requests: Associate Changes</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Analyzing Change Requests: The Process</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Analyzing Change Requests: Fast Track Versus Full Track</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Analyzing Change Requests: Task Details</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Problem Reports and Change Requests</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Benefits of Change Notices</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Creating Change Notices: The Process</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Creating Change Notices: Set Attributes</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Creating Change Notices: Define Implementation Plan</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Creating Change Notices: Set Attachments</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Creating Change Notices: Associate Changes</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Editing Change Tasks: Set Attributes</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Editing Change Tasks: Select Affected/Resulting Objects</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Creating Change Notices</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Viewing Related Tasks</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Change Tasks: Details</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Change Task Sequencing</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Setting the Disposition of the Affected Objects</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Setting Effectivity</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Change Notice Plan Approval</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Change Notice Process: The Diagram</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Change Notice Plan Execution</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Mass Change</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Change Notice Audit</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Windchill Variance: The Diagram</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Windchill Variance: Types</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Check Your Knowledge</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Questions</title>
+</topic></li></li></li><li><module level="2" position="Branch">
+    
+    
+    <title>Managing Your Work</title>
+</module><li><topic level="3" position="Leaf">
+    
+    
+    <title>Introduction</title>
+</topic></li><li><module level="3" position="Branch">
+    
+    
+    <title>Managing Your Work</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Managing Assignments</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Managing Recently Modified Objects</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Managing Checked Out Objects</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Managing Subscriptions</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Introduction to Communication Mechanisms</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Holding Discussions</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Discussing Objects</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Promotion Requests</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Viewing Promotion Requests</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Participating in Processes</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Participating in Workflow Processes</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Completing Tasks</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Preference Manager</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Deleting Objects</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>The Save As Feature</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>The Rename Feature</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>The Set State Feature</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Using the Windchill Clipboard</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Managing Folders</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Software Downloads</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Windchill Packages Definition</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Package Roles</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Packages Table</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Viewing a Package</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Viewing a Package</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Managed Collection</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Creating Managed Collections</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Lecture</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Exercise: Creating a Managed Collection</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Exercise</title>
+</topic></li></li><li><module level="3" position="Branch">
+    
+    
+    <title>Check Your Knowledge</title>
+</module><li><topic level="4" position="Leaf">
+    
+    
+    <title>Questions</title>
+</topic></li></li></li><li><unknown level="2" position="Leaf">
+    
+    
+    <title>Assessment</title>
+</unknown></li>
+
+        
+        
+      </designerNavInner>

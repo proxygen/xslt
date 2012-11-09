@@ -1,0 +1,1854 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<designerNavInner>
+    <topic>
+        <title>Introduction</title>
+    </topic>
+    <topic>
+        <title>Course Overview</title>
+    </topic>
+    <module>
+        <title>Introduction to the Windchill Environment</title>
+        <topic>
+            <title>Introduction</title>
+        </topic>
+        <module>
+            <title>Windchill PDMLink</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Windchill Environment</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Data Management Objects</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Change Management Objects</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Storage Locations</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Iteration and Revision Controls</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Process Controls</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Access Controls</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Collaboration Features</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Logging On to Windchill</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Logging On</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Understanding the Windchill User Interface</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Using the Home Page</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Using the Home Page</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Using Quick Links</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Using the Navigator</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Navigating Products and Libraries</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Navigating Changes</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Navigating the Environment</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Check Your Knowledge</title>
+            <topic>
+                <title>Questions</title>
+            </topic>
+        </module>
+    </module>
+    <module>
+        <title>Locating and Viewing Information</title>
+        <topic>
+            <title>Introduction</title>
+        </topic>
+        <module>
+            <title>Locating Information</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Using Simple Search</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Using Advanced Search</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Searching for Objects</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Managing Searches</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Browsing</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Browsing for Objects</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Using Windchill Tables</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Working with Table Columns</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Managing Windchill Table Views</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Understanding Information Pages</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Viewing Structure</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Understanding Object Capabilities</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Document Capabilities</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Examining Documents</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>CAD Document Capabilities</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Examining CAD Documents</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Part and End Item Capabilities</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Examining Parts and End Items</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Check Your Knowledge</title>
+            <topic>
+                <title>Questions</title>
+            </topic>
+        </module>
+    </module>
+    <module>
+        <title>Viewing Information using Creo Elements/View Lite</title>
+        <topic>
+            <title>Introduction</title>
+        </topic>
+        <module>
+            <title>Identifying Visualization Concepts</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Identifying Visualized Intellectual Property Types</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Identifying Components in PTC's Visualization System</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Identifying Readable Visualization Object Types</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Understanding Creo Elements/View’s Basic Capabilities</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Understanding the Creo Elements/View User Interface</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Viewing Area User Interface</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Command Ribbon</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>The Creo Elements/View File Menu User Interface</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Quick Access Toolbar User Interface</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Primary Panel User Interface</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Vertical Panel User Interface</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Horizontal Panel User Interface</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Starting Creo Elements/View as a Standalone Client</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Starting Creo Elements/View from Windchill</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Loading Viewables</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Demonstration: Loading a Model using a Standalone Client</title>
+            <topic>
+                <title>Demonstration</title>
+            </topic>
+        </module>
+        <module>
+            <title>Demonstration: Loading a Model from Windchill</title>
+            <topic>
+                <title>Demonstration</title>
+            </topic>
+        </module>
+        <module>
+            <title>Visualizing and Interrogating a Creo Elements/View Model</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Views Command Group</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Orienting the Model</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Demonstration: Navigating 3-D Models</title>
+            <topic>
+                <title>Demonstration</title>
+            </topic>
+        </module>
+        <module>
+            <title>Changing the Display of the Model</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Rendering Options</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Filtering Display and Other Items</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Hiding and Unhiding Components</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Demonstration: Working with Model Display Options</title>
+            <topic>
+                <title>Demonstration</title>
+            </topic>
+        </module>
+        <module>
+            <title>Opening Non-Model Files with Creo Elements/View</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Viewing Drawings</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Viewing Images</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Orienting Drawings and Images</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Working with Pages and Sheets</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Demonstration: Viewing Drawings and Images</title>
+            <topic>
+                <title>Demonstration</title>
+            </topic>
+        </module>
+        <module>
+            <title>_03 check Your Knowledge</title>
+            <topic>
+                <title>Questions</title>
+            </topic>
+        </module>
+    </module>
+    <module>
+        <title>Getting Started with CAD Data Management</title>
+        <topic>
+            <title>Introduction</title>
+        </topic>
+        <module>
+            <title>Creo Elements/Pro and Windchill Connectivity</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Windchill Integration</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Windchill Integration: Creo Elements/Pro Menus</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Windchill Integration: Model Tree</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Windchill Integration: Folder Browser</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Windchill Integration: Search</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Windchill Integration: Embedded Browser</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Windchill Integration: Event Manager</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Registering a Windchill Server</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Introduction to the Workspace</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Workspace Layout</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Creating Workspaces</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Registering a Windchill Server and Creating Workspaces</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Changing the Active Workspace</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Working with Workspaces</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Workspace Preferences: General</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Introduction to Windchill Parts</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Duplicate Names</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>_04 Check Your Knowledge</title>
+            <topic>
+                <title>Questions</title>
+            </topic>
+        </module>
+    </module>
+    <module>
+        <title>Initiating New Designs and Sharing Design Data</title>
+        <topic>
+            <title>Introduction</title>
+        </topic>
+        <module>
+            <title>Understanding Workspace Architecture</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Sharing Creo Elements/Pro Designs</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Introducing New Designs to the Workspace</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Workspace Save As</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Initiating New Designs Using Save As in the Workspace</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Introducing New Designs to the Commonspace</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Commonspace Save As</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Initiating New Designs Using Save As in the Commonspace</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Understanding Save, Upload, and Check In</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Understanding Save, Upload, and Check In</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Understanding Advanced Check In Options</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Generating Viewables</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Understanding Web Browser Access to the Workspace</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Naming and Numbering Policy Example</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Parameter to Attribute Mapping</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>_05 Check Your Knowledge</title>
+            <topic>
+                <title>Questions</title>
+            </topic>
+        </module>
+    </module>
+    <module>
+        <title>Modifying and Managing Design Information</title>
+        <topic>
+            <title>Introduction</title>
+        </topic>
+        <module>
+            <title>Understanding Workspace Objects</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Modification Process: Check Out a CAD Document</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Modification Process: Modify a CAD Document</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Modification Process: Check In a CAD Document</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Methods of Checking Out CAD Documents</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Understanding Check Out Status and Options</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Understanding Download and Check Out</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Checking Out and Modifying CAD Documents</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Workspace Status</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Associating WTParts with CAD Documents</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>WTPart CAD Document Links</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>WTPart CAD Document Links Example</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Updating and Synchronizing Workspace Objects</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Updating CAD Documents in the Workspace</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Synchronizing Objects in the Workspace</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Conducting Concurrent Product Design</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Importing and Exporting CAD Data</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Importing CAD Data</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exporting CAD Data</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Importing Assemblies into Workspaces</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Viewing Family Table Information</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>_06 Check Your Knowledge</title>
+            <topic>
+                <title>Questions</title>
+            </topic>
+        </module>
+    </module>
+    <module>
+        <title>Introduction to Product Structure Management</title>
+        <topic>
+            <title>Introduction</title>
+        </topic>
+        <module>
+            <title>Defining Configuration Management</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>End Items and Parts in Product Structures</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>CAD Documents in Product Structures</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Documents in Product Structures</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Creating Product Structures using CAD-centric Approach</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Creating Product Structures using Part-centric Approach</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Part Master and Version</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>End Item Master and Version</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Part Information Page</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>The Product Structure Browser</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>The Part Structure Command Ribbon</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>The Part Structure Panes</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Product Structure Browser — Layout Options</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Finding Components in the Product Structure</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Product Structure Browser — Visualization Tab</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Product Structure Browser — Uses Tab</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Product Structure Browser — Occurrences Tab</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Show/Hide Related Information</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Product Structure Related Objects</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exploring Product Structures</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Exploring Product Structures</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>_07 Check Your Knowledge</title>
+            <topic>
+                <title>Questions</title>
+            </topic>
+        </module>
+    </module>
+    <module>
+        <title>Creating and Managing Product Structures</title>
+        <topic>
+            <title>Introduction</title>
+        </topic>
+        <module>
+            <title>Creating Parts and End Items</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Creating Windchill Parts</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Creating Multiple Parts</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Building Product Structures</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Building Product Structure</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Associating Windchill Parts with Documents</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Associating Windchill Parts with Documents</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Bill of Materials Notes</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Creating Bill of Materials Notes</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Creating Bill of Materials Notes</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Replacement Parts</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Adding Replacement Parts</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Object Effectivity</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Product Structure Reports</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Generating Product Structure Reports</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Setting the Latest Filter</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Setting the Attribute Filter</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Setting the Attribute Filter</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Saving and Managing Filters</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Comparing Product Structures</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Analyzing Structure Comparison</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Comparing Product Structures</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>The Product Structure Explorer (PSE)</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Product Structure Explorer Menus</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Exploring Product Structure Explorer Interface</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>About Product Structure Explorer Modes</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Product Structure Explorer Draft Mode</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Product Structure Explorer Edit Mode</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Creating Parts and End Items in Product Structure Explorer</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Creating Product Structures using the Product Structure Explorer</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>_08 Check Your Knowledge</title>
+            <topic>
+                <title>Questions</title>
+            </topic>
+        </module>
+    </module>
+    <module>
+        <title>Creating and Managing Documents</title>
+        <topic>
+            <title>Introduction</title>
+        </topic>
+        <module>
+            <title>Document Capabilities</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Creating Documents and Links</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>New Document: Set Attributes (Type and Template)</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>New Document: Set Attributes (Primary Content)</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>New Document: Set Attributes (Attributes)</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>New Document: Set Attachments</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Creating Documents</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Creating Documents from Document Templates</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Overview of Modifying Documents</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Modifying Documents: Check Out</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Modifying Documents: Edit</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Modifying Documents: Check In</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Modifying Documents</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Modifying Documents: Undo Checkout</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Modifying Documents: Replace Content</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Modifying Documents: Revise</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Revising Documents</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Understanding Document Relationships</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Establishing Document References Relationships</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Creating Document References Relationships</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Associating Documents with Windchill Parts</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>_09 Check Your Knowledge</title>
+            <topic>
+                <title>Questions</title>
+            </topic>
+        </module>
+    </module>
+    <module>
+        <title>Introduction to the Change Process</title>
+        <topic>
+            <title>Introduction</title>
+        </topic>
+        <module>
+            <title>Change Management Features: Introduction</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Change Management Features: How Does Change Management Fit In?</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Change Management Process Definition</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Change Objects</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Roles in the Change Process</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Change Notice without a Change Request</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Monitoring Change: Reports</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Monitoring Changes</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>The Change Process: Overview</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>The Change Process: Diagram</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>The Change Process: Problem Report</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>The Change Process: Change Request</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>The Change Process: Change Request Tracking</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>The Change Process: Change Notice</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>The Change Process: Change Notice Implementation</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Business Case for the Change</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Creating Problem Reports</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Creating Problem Reports: Set Attributes</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Creating Problem Reports: Select Affected End Items</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Creating Problem Reports: Select Affected Objects</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Creating Problem Reports: Set Attachments</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Submitting Problem Reports</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>_10 Check Your Knowledge</title>
+            <topic>
+                <title>Questions</title>
+            </topic>
+        </module>
+    </module>
+    <module>
+        <title>Initiating and Implementing Change</title>
+        <topic>
+            <title>Introduction</title>
+        </topic>
+        <module>
+            <title>Analyzing Change Request: The Process</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Analyzing Change Request: Task Details</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Change Requests: Objectives and Benefits</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Creating Change Requests: The Process</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Creating Change Requests: Set Attributes</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Creating Change Requests: Select Affected End Items</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Creating Change Requests: Select Affected Objects</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Creating Change Requests: Collect Affected Objects</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Creating Change Requests: Set Attachments</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Creating Change Requests: Associate Changes</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Analyzing Change Requests: The Process</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Analyzing Change Requests: Fast Track Versus Full Track</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Analyzing Change Requests: Task Details</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Problem Reports and Change Requests</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Benefits of Change Notices</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Creating Change Notices: The Process</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Creating Change Notices: Set Attributes</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Creating Change Notices: Define Implementation Plan</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Creating Change Notices: Set Attachments</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Creating Change Notices: Associate Changes</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Editing Change Tasks: Set Attributes</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Editing Change Tasks: Select Affected/Resulting Objects</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Creating Change Notices</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Viewing Related Tasks</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Change Tasks: Details</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Change Task Sequencing</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Setting the Disposition of the Affected Objects</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Setting Effectivity</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Change Notice Plan Approval</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Change Notice Process: The Diagram</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Change Notice Plan Execution</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Mass Change</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Change Notice Audit</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Windchill Variance: The Diagram</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Windchill Variance: Types</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Check Your Knowledge</title>
+            <topic>
+                <title>Questions</title>
+            </topic>
+        </module>
+    </module>
+    <module>
+        <title>Managing Your Work</title>
+        <topic>
+            <title>Introduction</title>
+        </topic>
+        <module>
+            <title>Managing Your Work</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Managing Assignments</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Managing Recently Modified Objects</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Managing Checked Out Objects</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Managing Subscriptions</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Introduction to Communication Mechanisms</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Holding Discussions</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Discussing Objects</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Promotion Requests</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Viewing Promotion Requests</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Participating in Processes</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Participating in Workflow Processes</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Completing Tasks</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Preference Manager</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Deleting Objects</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>The Save As Feature</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>The Rename Feature</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>The Set State Feature</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Using the Windchill Clipboard</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Managing Folders</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Software Downloads</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Windchill Packages Definition</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Package Roles</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Packages Table</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Viewing a Package</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Viewing a Package</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Managed Collection</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Creating Managed Collections</title>
+            <topic>
+                <title>Lecture</title>
+            </topic>
+        </module>
+        <module>
+            <title>Exercise: Creating a Managed Collection</title>
+            <topic>
+                <title>Exercise</title>
+            </topic>
+        </module>
+        <module>
+            <title>Check Your Knowledge</title>
+            <topic>
+                <title>Questions</title>
+            </topic>
+        </module>
+    </module>
+    <unknown>
+        <title>Assessment</title>
+    </unknown>
+</designerNavInner>
